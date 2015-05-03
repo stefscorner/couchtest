@@ -32,7 +32,7 @@ public class AttachmentInserter {
 		System.out.println(new String(decodeBase64));
 		
 		
-		// JsonObject object = new JsonObject();
+		JsonObject object = new JsonObject();
 		// Gson gson = new Gson();
 		// Map<String, Attachment> attachments = new HashMap<String,
 		// Attachment>();
